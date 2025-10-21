@@ -11,5 +11,3 @@
 # Production build
 /frontend/build
 
-# Ignore embedded repo
-/Digital -Time -Capsule
